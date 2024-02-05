@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
-class Assignment5 extends StatefulWidget {
-  const Assignment5({super.key});
+class Instagram extends StatefulWidget {
+  const Instagram({super.key});
 
   @override
-  State<Assignment5> createState() => _Assignment5State();
+  State<Instagram> createState() => _InstagramState();
 }
 
-class _Assignment5State extends State<Assignment5> {
+class _InstagramState extends State<Instagram> {
   bool _isLiked = false;
   bool _pratiklike= false;
   bool _brolike= false;
